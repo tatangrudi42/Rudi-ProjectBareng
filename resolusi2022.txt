@@ -1,0 +1,7 @@
+-- Memahami Web Programming
+-- Memahami python
+-- Memahami Javascript
+-- Paham Framework Laravel
+-- NodeJs, React Js, Vue Js, dll
+-- Machine Learning dan Deep Learning
+-- Pytorch
